@@ -13,6 +13,7 @@
 		E9F144F5269D7E2500BEFDE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9F144F3269D7E2500BEFDE6 /* Main.storyboard */; };
 		E9F144F7269D7E2600BEFDE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9F144F6269D7E2600BEFDE6 /* Assets.xcassets */; };
 		E9F144FA269D7E2600BEFDE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9F144F8269D7E2600BEFDE6 /* LaunchScreen.storyboard */; };
+		E9F14502269D935200BEFDE6 /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F14501269D935200BEFDE6 /* Reminder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E9F144F6269D7E2600BEFDE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9F144F9269D7E2600BEFDE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9F144FB269D7E2600BEFDE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9F14501269D935200BEFDE6 /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E9F144EF269D7E2500BEFDE6 /* SceneDelegate.swift */,
 				E9F144F1269D7E2500BEFDE6 /* ViewController.swift */,
 				E9F144F3269D7E2500BEFDE6 /* Main.storyboard */,
+				E9F14501269D935200BEFDE6 /* Reminder.swift */,
 				E9F144F6269D7E2600BEFDE6 /* Assets.xcassets */,
 				E9F144F8269D7E2600BEFDE6 /* LaunchScreen.storyboard */,
 				E9F144FB269D7E2600BEFDE6 /* Info.plist */,
@@ -140,6 +143,7 @@
 				E9F144F2269D7E2500BEFDE6 /* ViewController.swift in Sources */,
 				E9F144EE269D7E2500BEFDE6 /* AppDelegate.swift in Sources */,
 				E9F144F0269D7E2500BEFDE6 /* SceneDelegate.swift in Sources */,
+				E9F14502269D935200BEFDE6 /* Reminder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
